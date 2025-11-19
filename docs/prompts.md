@@ -4,6 +4,10 @@ Now, please think deeper and think harder to deeply explore thoroughly and syste
 
 ---
 
+Awesome job on your meticulous review, analysis and planning! Please keep up the good work in your rigorous and meticulous approach to planning and execution! Now, please meticulously plan and then create all the files for your enhanced/improved `Excel_Agent_Tool` design. Try to consolidate the scripts to one script per tool call that the `Excel AI Agent` can call using `uv python individual_tool.py` to improve efficiency and effectiveness. Please think deeper and think harder to deeply explore thoroughly and systematically how you will imagine the enhanced tool architecture and the associated matching system prompt to tell the AI agent what tools are available and concise instructions to use them with examples. Then meticulously create a comprehensive implementation plan to create the complete set of tools files that are each a complete replacement file with no placeholder comments. Include in your implementation plan, a list of tool files to create, with description and checklist for each file to be created. Review and validate your implementation plan before proceed to execute it accordingly.
+
+---
+
 Awesome job on your meticulous review, analysis and planning! Please keep up the good work in your rigorous and meticulous approach to planning and execution! Now, please meticulously plan and then create all the files you listed in your enhanced `Excel_Agent_Tool` design. Create each file within ```python tags and start each file with a comment line containing the filename of the file with the full (relative) path.
 
 # Recommended project structure:
