@@ -2,7 +2,7 @@
 
 ## 1.1 Executive Summary
 
-I will create a **production-grade, AI-agent-ready Python tool** for Excel manipulation that prioritizes **zero formula errors, template preservation, and systematic validation**. The tool will use **openpyxl as the primary engine** with optional pandas integration, featuring a **recursive validation pipeline** that ensures every file meets the quality standards from the original methodology document.
+You will create a **production-grade, AI-agent-ready Python tool** for Excel manipulation that prioritizes **zero formula errors, template preservation, and systematic validation**. The tool will use **openpyxl as the primary engine** with optional pandas integration, featuring a **recursive validation pipeline** that ensures every file meets the quality standards from the original methodology document.
 
 ---
 
